@@ -13,3 +13,5 @@ services:
         value: n8n.onrender.com
       - key: WEBHOOK_TUNNEL_URL
         value: https://n8n.onrender.com
+      - key: PORT
+        value: 10000
